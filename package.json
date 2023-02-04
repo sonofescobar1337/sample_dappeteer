@@ -4,7 +4,6 @@
   "type": "module",
   "dependencies": {
     "@chainsafe/dappeteer": "^4.2.0",
-    "delay": "^5.0.0",
-    "fs": "^0.0.1-security"
+    "delay": "^5.0.0"
   }
 }
