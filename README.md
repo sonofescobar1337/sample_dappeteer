@@ -1,7 +1,7 @@
 ## sample_dappeteer
 Ini cuman sample dari auto login ACE menggunakan dappeteer (Metamask + Puppeteer)
 
-#how to run
+## how to run
 npm install @chainsafe/dappeteer
 npm install delay
 npm install npm install --global yarn
